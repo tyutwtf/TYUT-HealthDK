@@ -6,7 +6,7 @@ import json
 #from datetime import datetime
 #namenum是用户名，passwd是密码，分别改成自己的，这里我填了两个账号，可以填写多个，最后到主函数那里添加上相应的调用
 #校区
-xq = '虎峪'
+xq = '明向'
 namenum = {
 	'zs':'2021510001',
 	'ls':'2021510002',
